@@ -1,5 +1,5 @@
 %************************************************************************************************** 
-%  SDPSO: strategy dynamics particle swarm optimizar 
+%  SDPSO: strategy dynamics particle swarm optimizer 
 %  Version: SDPSO 1.0
 %  Author: Ziang Liu, Tatsushi Nishi
 %  Email: liu.ziang@okayama-u.ac.jp
